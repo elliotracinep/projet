@@ -1,0 +1,19 @@
+{
+  "name": "pending",
+  "version": "1.0.0",
+  "description": "projet non officiel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliotracinep/projet.git"
+  },
+  "author": "Elliot Racine-Prud'Homme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elliotracinep/projet/issues"
+  },
+  "homepage": "https://github.com/elliotracinep/projet#readme"
+}
